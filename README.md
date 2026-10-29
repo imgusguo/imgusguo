@@ -55,7 +55,7 @@ Source-code contributions with tests, merged into widely used open-source projec
 - [langchain4j/langchain4j#6103](https://github.com/langchain4j/langchain4j/pull/6103): Handle UUID-as-string in range metadata filters · 范围元数据过滤器支持字符串形式的 UUID
 - [spring-projects/spring-ai#6407](https://github.com/spring-projects/spring-ai/pull/6407): Add guide for building a console application · 新增控制台应用构建指南
 
-> All merged PRs: [search link · 全部已合并 PR](https://github.com/pulls?q=is%3Apr+author%3Aangus-guo+is%3Amerged+-user%3Aangus-guo)
+> All merged PRs: [search link · 全部已合并 PR](https://github.com/pulls?q=is%3Apr+author%3Aimgusguo+is%3Amerged+-user%3Aimgusguo)
 
 ---
 
@@ -63,11 +63,11 @@ Source-code contributions with tests, merged into widely used open-source projec
 
 | Project | Description · 简介 |
 |---|---|
-| [gps-code](https://github.com/angus-guo/gps-code) | A Chinese-first TUI code agent that helps developers understand unfamiliar codebases, with read-only tools, confirmed command execution and diff-previewed safe edits · 中文优先的 TUI code agent，帮助理解陌生代码库，支持只读检索、确认后执行命令、带 diff 预览的安全编辑 |
-| [dsh-deepseek-balance](https://github.com/angus-guo/dsh-deepseek-balance) | DeepSeek balance and session cost plugin for the dsh web GUI · dsh 网页界面的 DeepSeek 余额与会话成本插件 |
-| [poem4u](https://github.com/angus-guo/poem4u) | Chinese poem generator (Spring Boot + TypeScript) that validates line count, character count and name coverage before returning · 中文诗词生成应用，返回前校验行数、字数与嵌字要求 |
-| [claude-key-panel](https://github.com/angus-guo/claude-key-panel) | Visual panel for managing and switching multiple Claude keys · 管理切换多个 Claude key 的可视化面板 |
-| [whack-a-wole](https://github.com/angus-guo/whack-a-wole) | Whack-a-mole web game in pure HTML/CSS/JS with 10 levels · 纯前端打地鼠小游戏，共 10 关 |
+| [gps-code](https://github.com/imgusguo/gps-code) | A Chinese-first TUI code agent that helps developers understand unfamiliar codebases, with read-only tools, confirmed command execution and diff-previewed safe edits · 中文优先的 TUI code agent，帮助理解陌生代码库，支持只读检索、确认后执行命令、带 diff 预览的安全编辑 |
+| [dsh-deepseek-balance](https://github.com/imgusguo/dsh-deepseek-balance) | DeepSeek balance and session cost plugin for the dsh web GUI · dsh 网页界面的 DeepSeek 余额与会话成本插件 |
+| [poem4u](https://github.com/imgusguo/poem4u) | Chinese poem generator (Spring Boot + TypeScript) that validates line count, character count and name coverage before returning · 中文诗词生成应用，返回前校验行数、字数与嵌字要求 |
+| [claude-key-panel](https://github.com/imgusguo/claude-key-panel) | Visual panel for managing and switching multiple Claude keys · 管理切换多个 Claude key 的可视化面板 |
+| [whack-a-wole](https://github.com/imgusguo/whack-a-wole) | Whack-a-mole web game in pure HTML/CSS/JS with 10 levels · 纯前端打地鼠小游戏，共 10 关 |
 
 ---
 
@@ -100,10 +100,10 @@ Source-code contributions with tests, merged into widely used open-source projec
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=angus-guo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angus-guo&layout=compact&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imgusguo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgusguo&layout=compact&hide_border=true" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=angus-guo&hide_border=true" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imgusguo&hide_border=true" alt="Streak" />
 
 </div>
 
@@ -111,5 +111,5 @@ Source-code contributions with tests, merged into widely used open-source projec
 
 ## 📫 Contact · 联系
 
-- GitHub: [@angus-guo](https://github.com/angus-guo)
+- GitHub: [@imgusguo](https://github.com/imgusguo)
 - Email: 1721581427@qq.com
